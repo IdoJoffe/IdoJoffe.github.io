@@ -1,4 +1,9 @@
 #mainTitle{
 	position:relative;
-	left:50px;
+	text-align: center;
+	top:400px;
+}
+nav a{
+  font-size: 25px;
+  margin-left:50px;	
 }
