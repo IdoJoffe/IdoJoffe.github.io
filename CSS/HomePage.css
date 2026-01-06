@@ -2,8 +2,14 @@
 	position:relative;
 	text-align: center;
 	top:400px;
+	color: white;
 }
 nav a{
   font-size: 25px;
   margin-left:50px;	
+  color: white;
+  text-decoration: none;
+}
+body{
+	background-color:#02BDDE;
 }
